@@ -1,0 +1,3 @@
+http://news.yahoo.co.jp/pickup/rss.xml
+http://www.techscore.com/blog/feed/
+http://dev.classmethod.jp/category/iphone/feed/
